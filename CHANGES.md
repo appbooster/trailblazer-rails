@@ -1,3 +1,6 @@
+# 2.2.0
+* move trailblazer-loader as optional dependency
+
 # 2.1.7
 
 * Bug: Deprecation warning for use_loader always called (fixed)
